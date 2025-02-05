@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">A passionate backend developer from South Italy</h3>
+<h3 align="center">A passionate Full Stack developer from Bari, South Italy </h3>
 
 - 📫 How to reach me **Davidetatone92@gmail.com**
 
