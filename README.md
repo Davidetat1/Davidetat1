@@ -12,9 +12,14 @@
 ### 🔗 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/davide-tatone" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+---
+
+### 🌐 Website:
+🚀 **Portfolio:** [davide-tatone.vercel.app](https://davide-tatone.vercel.app)
 
 ---
 
@@ -49,16 +54,9 @@
 
 ### 📫 How to reach me:
 📧 **Email:** [Davidetatone92@gmail.com](mailto:Davidetatone92@gmail.com)  
-🌍 **Website (Coming Soon!)**  
+🌍 **Website:** [davide-tatone.vercel.app](https://davide-tatone.vercel.app)  
 
 ---
 
 🔥 **Fun Fact:** I love tech, gaming, and spicy food 🌶️🔥  
-✨ **Currently working on:** Expanding my portfolio and learning new technologies 🚀  
-
-
-
-<!---
-Davidetat1/Davidetat1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ **Currently working on:** Expanding my portfolio, learning new technologies, and open to collaborations or job opportunities.🚀  
