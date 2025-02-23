@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Bari, Italy 🇮🇹</h3>
 
 <p align="center">
-🚀 Enthusiastic about building modern, scalable, and high-performance web applications.<br>
+🚀 I love turning ideas into digital solutions, building modern and intuitive web applications.<br>
 💡 Always eager to learn new technologies and improve my skills.<br>
 🎯 Specialized in Full Stack Development with a focus on clean code, UI/UX, and performance optimization.
 </p>
